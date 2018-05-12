@@ -1,0 +1,36 @@
+_repo: Scenas-da-Foz_28310
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castelo Branco, Camilo
+    aliases:
+    - Correia Botelho, Camillo Castello Branco, visconde de
+    - Botelho Castelo Branco, Camilo Ferreira
+    - Corrêa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Branco, Camilo Ferreira Botelho Castelo
+    - Correa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Branco, Camilo Castelo
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '6699'
+    url: http://www.gutenberg.org/2009/agents/6699
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
+    - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
+description: ''
+gutenberg_issued: '2009-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28310'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese literature -- 19th century'
+- !lcc 'PQ'
+title: Scenas da Foz
+url: http://www.gutenberg.org/ebooks/28310
